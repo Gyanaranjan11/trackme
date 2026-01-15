@@ -15,8 +15,13 @@ pip install -r requirements.txt
 Run the app
 
 python app.py
+
 for Migration
+
 Create migration
+
 flask db migrate
+
 Apply migration
+
 flask db upgrade
